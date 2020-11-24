@@ -1,49 +1,38 @@
-EDIT: Awarded First Place in the Hackaton!!!
+*EDIT: Awarded First Place in the Hackaton!!!*
 
 # TLTR (Too Long To Read)
-TLTR is a python based project that reads "Terms and Conditions" inputed by the user and generates a score based on how invasive the terms are for the user. 
+TLTR is a Python-based project that reads "Terms and Conditions" inputed by the user and generates a score based on how invasive the terms are for the user. 
 
-The application analyze the inputed data, find key words, and expose to the user any important information he should know.
+The application analyze the inputed data, find keywords, and provides back to the user any important information he should know.
 
-This application is still under development and it was created during the HackWesTX Hackathon. 
+This application is still under development and it was created during the HackWesTX Hackathon in Lubbock, TX. 
 
+## Tools
 
-##Prerequisites
-- Python 3.6+
-- Flask
-
-```python
-from flask import Flask, render_template, request, flash
-  ```
-  
-- Rake 
-```python
-from multi_rake import Rake
-```
-
-## Built With
-
-- Python (https://www.python.org/)
+- Python
 - Multi-Rake (https://pypi.org/project/multi-rake/)
 - Flask (https://pypi.org/project/Flask/)
-- Bootstrap (https://getbootstrap.com/)
-- Love sz 
+- Bootstrap
+- HTML
+- CSS
 
 ## Future Plans:
-Our future goal is to:
-1st) Use ML in a way the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. 
-     Because of the time constraint (and a team that was learning while doing it) we did not have time to develop it entirely during the hackathon. 
-2nd) Develop a Google Chrome extension to facilitate the user experience. 
+
+- Use ML in a way that the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. Because of the time constraint, and the team that was learning while doing it, we did not have time to develop it entirely during the hackathon. 
+- Develop a Google Chrome extension to facilitate the user experience. 
+
+## Authors
+<ul>
+  <li>Cristiano Caon</li>
+  <li>Luiza Santos</li>
+  <li>Rafael Javarez</li>
+  <li>Pedro Piccino</li>
+</ul>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Authors
-Cristiano Caon 
-Luiza Santos
-Rafael Javarez
-Pedro Piccino 
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-multi-rake by vgrabovets as basis was used.
+
+Rake by vgrabovets as basis was used.
