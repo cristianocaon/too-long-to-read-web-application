@@ -24,6 +24,8 @@ Run the following command to start:
 python hackapp.py
 ```
 
+Open the web application at http://localhost:5000 and you will be able input terms and conditions in the text form to receive back the insights!
+
 ## Future Plans:
 
 - Use ML in a way that the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. Because of the time constraint, and the team that was learning while doing it, we did not have time to develop it entirely during the hackathon. 
