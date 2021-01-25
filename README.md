@@ -1,9 +1,9 @@
 *EDIT: Awarded First Place in the Hackaton!!!*
 
 # TLTR (Too Long To Read)
-TLTR is a Python-based project that reads "Terms and Conditions" inputed by the user and generates a score based on how invasive the terms are for the user. 
+TLTR is a Python-based project that reads "Terms and Conditions" inputted by the user and generates a score based on how invasive the terms are for the user. 
 
-The application analyze the inputed data, find keywords, and provides back to the user any important information he should know.
+The application analyze the inputted data, find keywords, and provides back to the user any important information he should know.
 
 This application is still under development and it was created during the HackWesTX Hackathon in Lubbock, TX. 
 
@@ -24,11 +24,11 @@ Run the following command to start:
 python hackapp.py
 ```
 
-Open the web application at http://localhost:5000 and you will be able input terms and conditions in the text form to receive back the insights!
+Open the web application at http://localhost:5000 and you will be able to input the terms and conditions in the text form to receive back the insights!
 
 ## Future Plans:
 
-- Use ML in a way that the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. Because of the time constraint, and the team that was learning while doing it, we did not have time to develop it entirely during the hackathon. 
+- Use ML in a way that the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. Because of the time constraint, and the fact that the team was learning while creating the application, we did not have time to develop it entirely during the competition. 
 - Develop a Google Chrome extension to facilitate the user experience. 
 
 ## Authors
