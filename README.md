@@ -39,6 +39,11 @@ Open the web application at http://localhost:5000 and you will be able input ter
   <li>Pedro Piccino</li>
 </ul>
 
+## Images
+
+![alt text](https://github.com/cristianocaon/Too-Long-To-Read-TLTR--HackWestTX/blob/master/images/Capture.JPG)
+![alt text](https://github.com/cristianocaon/Too-Long-To-Read-TLTR--HackWestTX/blob/master/images/Capture2.JPG)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
