@@ -48,6 +48,7 @@ Open the web application at http://localhost:5000 and you will be able to input 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+Rake by vgrabovets as basis was used.
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Rake by vgrabovets as basis was used.
