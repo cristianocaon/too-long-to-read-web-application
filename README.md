@@ -31,7 +31,7 @@ Open the web application at http://localhost:5000 and you will be able to input 
 - Use ML in a way that the program will be able to read the Terms and Conditions and choose what words represent a benefit or a danger to the customer. Because of the time constraint, and the fact that the team was learning while creating the application, we did not have time to develop it entirely during the competition. 
 - Develop a Google Chrome extension to facilitate the user experience. 
 
-## Authors
+## Contributors
 <ul>
   <li>Cristiano Caon</li>
   <li>Luiza Santos</li>
